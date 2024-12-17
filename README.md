@@ -114,6 +114,9 @@ Here, `fetchTodos` is an action creator that can be dispatched.
 In RTK:
 - **Action Creators** are automatically generated when you use `createSlice`.
 - They save time, reduce errors, and simplify Redux code.
+![image](https://github.com/user-attachments/assets/3165dc8f-4ee8-42dc-8d3e-08a47e698770)
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/b554859b-dad8-478b-a24f-70d6a57a3920" />
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/248f4354-4b55-4584-ad52-9b048c43aeeb" />
 ### Without thunks:
 ```js
 //src>fetaures>cartSlice.js
